@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 ## Java基础
-[Java基础知识](Java%E5%9F%BA%E7%A1%80.md)
+[Java基础知识](./_posts/2021-08-15-Java%E5%9F%BA%E7%A1%80.md)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 

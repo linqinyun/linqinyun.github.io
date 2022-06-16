@@ -1,39 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to LinQinYun
 
-You can use the [editor on GitHub](https://github.com/linqinyun/linqinyun.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+基于Github Pages官方提供Jekyll模板生成静态网页。仅作为个人学习工作的资料收集、记录使用。
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+使用markdown为载体，部分格式需加载相应的插件。
 
-```markdown
-Syntax highlighted code block
+### [博文集合](/blog.html)
 
-# Header 1
-## Header 2
-### Header 3
+### 部分项目展示
 
-- Bulleted
-- List
+- https://github.com/linqinyun/gameStore
+- https://github.com/linqinyun/gameStoreBt
+- https://github.com/linqinyun/OilPaintingShopping
+- https://github.com/linqinyun/oa
+- https://github.com/linqinyun/AdminTp 私有
+- https://github.com/linqinyun/AdminVue 私有
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-## [导航](/blog.html)
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linqinyun/linqinyun.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [关于LinQinYun](/linqinyun.html)
